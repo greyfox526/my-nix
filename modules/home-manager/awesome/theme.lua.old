@@ -1,0 +1,5 @@
+-- {{{ Main
+local theme = {}
+theme.wallpaper = "/home/greyfox/.config/awesome/wallpaper/fox-g056680d64_1280.jpg"
+-- }}}
+
